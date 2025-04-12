@@ -36,8 +36,10 @@ body{
     align-items: center;
     padding: 2em;
 }
-.image {
-    border-radius: 150%;
+.image img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
 
 }
 .jessica {

@@ -21,7 +21,6 @@ This project presents a simple social profile webpage designed as part of a chal
 2. **Open the HTML File**:
    Open `index.html` in your web browser to view the project.
 
-## Code Explanation
 
 ### HTML Structure
 
